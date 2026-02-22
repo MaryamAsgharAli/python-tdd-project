@@ -2,26 +2,26 @@
 
 This project demonstrates Test-Driven Development (TDD) and test coverage analysis in Python.
 
-## 🔹 Task 1 – Rövarspråket
+## Task 1 – Rövarspråket
 - Implemented encoding and decoding logic.
 - Wrote unit tests using unittest.
 - Identified and fixed defects in consonant handling.
 - Achieved 100% statement and branch coverage.
 
-## 🔹 Task 2 – Pattern Cipher
+## Task 2 – Pattern Cipher
 - Implemented rule-based single-word transformation.
 - Applied equivalence partitioning to design unit tests.
 - Used pytest for testing.
 - Achieved 100% statement and branch coverage.
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Python
 - unittest
 - pytest
 - pytest-cov
 - Anaconda Terminal
 
-## ▶ How to Run the Project
+##  How to Run the Project
 
 ### Run Task 1 Tests
 
